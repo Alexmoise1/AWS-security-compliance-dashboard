@@ -98,8 +98,8 @@ This project runs on AWS and costs approximately **$0.50-$1.00 per month** becau
 
 Feel free to reach out if you have questions about this project!
 
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
+- **Email:** sandymoises@hotmail.com
+- **LinkedIn:** https://www.linkedin.com/in/alex-moise-18470136a/
 
 ---
 
