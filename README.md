@@ -215,8 +215,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👤 Author
 
 **Your Name**
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- LinkedIn: https://www.linkedin.com/in/alex-moise-18470136a/
+- Email: Sandymoises@hotmail.com
 - Portfolio: [Your Portfolio Website](https://yourwebsite.com)
 
 ## 🙏 Acknowledgments
